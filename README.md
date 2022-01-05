@@ -17,6 +17,7 @@ Salve! Aqui é o João✌
   <img align="center" alt="Joao-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Joao-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://nerdhits.com.br/wp-content/uploads/2020/05/instinto-superior-goku-1200x900.jpg">
 </div>
 
   ##
