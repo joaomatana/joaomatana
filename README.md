@@ -2,7 +2,7 @@ Salve! Aqui é o João✌
 
 - 🔭 Trabalho como Analista de Desenvolvimento de Sistemas
 - 🌱 Estudando Python, NodeJS, Banco de Dados Relacionais, SQL e Desenvolvimento Web
-- 😁 Fã de Dragon Ball
+- 😁 Fã de Dragon Ball!
 
 <div align="center">
   <a href="https://github.com/JoaoPedroMatana">
