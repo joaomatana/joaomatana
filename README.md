@@ -18,7 +18,7 @@
   <img align="center" alt="Joao-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Joao-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/liga-da-zueira-oficial/images/d/da/Goku_render_1_alt_1_by_ssjrose890_ddujowl-fullview.png/revision/latest?cb=20200806022458&path-prefix=pt-br">
+  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/dbz-dokkanbattle/images/8/85/1487781835.737animation3.gif/revision/latest/scale-to-width-down/426?cb=20170222164551">
 </div>
   
   ##
