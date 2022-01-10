@@ -4,7 +4,7 @@
 - 📖 Estudando Python, NodeJS, Banco de Dados Relacionais, SQL e Desenvolvimento Web
 - 😁 Fã de Dragon Ball!
 
-<div>
+<div align="center">
   <a href="https://github.com/joaomatana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomatana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomatana&layout=compact&langs_count=7&theme=onedark"/>
