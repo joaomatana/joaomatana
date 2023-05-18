@@ -1,6 +1,6 @@
 ## Salve!! Aqui é o João✌
 
-- 🖥️ Trabalho como Analista de Desenvolvimento de Sistemas
+- 🖥️ Trabalho como Analista de Dados Pleno
 - 📖 Estudando Python, NodeJS, Banco de Dados Relacionais, SQL e Desenvolvimento Web
 - 😁 Fã de Dragon Ball!
 
