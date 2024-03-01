@@ -1,8 +1,7 @@
 ## Salve!! Aqui é o João✌
 
-- 🖥️ Trabalho como Analista de Dados Pleno
-- 📖 Estudando Python, NodeJS, Banco de Dados Relacionais, SQL e Desenvolvimento Web
-- 😁 Fã de Dragon Ball!
+- 🖥️ Sou dev
+- 📖 Estudando Python, NodeJS, SQL e Desenvolvimento Web
 
 <div align="center">
   <a href="https://github.com/joaomatana">
@@ -30,4 +29,4 @@
   <a href="https://www.linkedin.com/in/joao-matana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-  ![Snake animation](https://github.com/joaomatana/joaomatana/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/joaomatana/joaomatana/blob/output/github-contribution-grid-snake.svg)-->
