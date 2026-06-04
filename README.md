@@ -1,32 +1,25 @@
-## Salve!! Aqui é o João✌
+# João Matana
 
-- 🖥️ Sou dev
-- 📖 Estudando Python, NodeJS, SQL e Desenvolvimento Web
+**Desenvolvedor de software que entende de dados.**
+Fullstack (TypeScript · Node · React) com background em Engenharia de Dados e BI · +5 anos de experiência.
 
-<div align="center">
-  <a href="https://github.com/joaomatana">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaomatana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomatana&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Hoje sou responsável técnico pela plataforma de assinaturas e billing da Clinicorp:
+motor de cobrança recorrente, integração de gateways de pagamento e arquitetura
+orientada a eventos rodando em GCP. Antes disso, ajudei a fundar a área de dados
+da empresa, definindo os primeiros pipelines de ETL/ELT.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Joao-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Joao-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Joao-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://static.wikia.nocookie.net/ce3765bc-182b-4697-902b-6dc7acc84e48">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/jp_matana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="mailto:jpmatana19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-matana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
-  <!--![Snake animation](https://github.com/joaomatana/joaomatana/blob/output/github-contribution-grid-snake.svg)-->
+### Stack
+
+| | |
+|---|---|
+| **Linguagens** | TypeScript · JavaScript · Python · SQL |
+| **Web** | React · Node.js · shadcn/ui · Radix · Tailwind |
+| **Dados & BI** | BigQuery · Looker · ETL/ELT · modelagem de dados |
+| **Cloud & Infra** | GCP (App Engine · Cloud SQL · Cloud Tasks) · Terraform · Docker |
+
+**Formação:** Eng. de Software · Ciência de Dados · pós em Eng. de Dados, BI e Big Data.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-matana/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jpmatana19@gmail.com)
